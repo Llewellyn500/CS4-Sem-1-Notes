@@ -11,119 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -220,
-                  "zoom": -0.22969722195968148
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "1f02211ad6fc32de",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Courses/MAS 261 - Principles Of Management/MAS 261 - Principles Of Management.md",
+                "file": "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MAS 261 - Principles Of Management"
-            }
-          },
-          {
-            "id": "d82ee58d3d047390",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Courses/CSM 497 - Expert Systems/CSM 497 - Expert Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSM 497 - Expert Systems"
-            }
-          },
-          {
-            "id": "c10d99c7e4e89bb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Courses/CSM 495 - Introduction To Software Engineering/CSM 495 - Introduction To Software Engineering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSM 495 - Introduction To Software Engineering"
-            }
-          },
-          {
-            "id": "a4dfc5852ed33c7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Courses/CSM 491 - Graph Theory And Its Applications/CSM 491 - Graph Theory And Its Applications.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSM 491 - Graph Theory And Its Applications"
-            }
-          },
-          {
-            "id": "ea4f66b8a1ffffcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Courses/CSM 483 - Operating Systems/CSM 483 - Operating Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSM 483 - Operating Systems"
-            }
-          },
-          {
-            "id": "dc0aeb9b19452543",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Courses/CSM 481 - Information System I/CSM 481 - Information System I.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSM 481 - Information System I"
-            }
-          },
-          {
-            "id": "8465233ec7cc1a6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Courses/CSM 477 - Data Communication/CSM 477 - Data Communication.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSM 477 - Data Communication"
+              "title": "Lecture 01"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Courses/CSM 477 - Data Communication/CSM 477 - Data Communication.md"
+                "file": "Homepage.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of CSM 477 - Data Communication"
+              "title": "Outline of Homepage"
             }
           },
           {
@@ -277,17 +175,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99643f21949b5dde",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Homepage.canvas",
+    "📚 Courses/CSM 483 - Operating Systems/Resources/ch1.pptx",
+    "📚 Courses/CSM 483 - Operating Systems/Resources/OperatingSystemConcepts-10th.pdf",
+    "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 01.md",
+    "📚 Courses/MAS 261 - Principles Of Management/MAS 261 - Principles Of Management.md",
+    "📚 Courses/CSM 497 - Expert Systems/CSM 497 - Expert Systems.md",
+    "📚 Courses/CSM 495 - Introduction To Software Engineering/CSM 495 - Introduction To Software Engineering.md",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/CSM 491 - Graph Theory And Its Applications.md",
+    "📚 Courses/CSM 483 - Operating Systems/CSM 483 - Operating Systems.md",
     "📚 Courses/CSM 481 - Information System I/CSM 481 - Information System I.md",
     "📚 Courses/CSM 477 - Data Communication/CSM 477 - Data Communication.md",
-    "📚 Courses/CSM 483 - Operating Systems/CSM 483 - Operating Systems.md",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/CSM 491 - Graph Theory And Its Applications.md",
-    "📚 Courses/CSM 495 - Introduction To Software Engineering/CSM 495 - Introduction To Software Engineering.md",
-    "Homepage.canvas",
     "README.md",
-    "📚 Courses/CSM 497 - Expert Systems/CSM 497 - Expert Systems.md",
-    "📚 Courses/MAS 261 - Principles Of Management/MAS 261 - Principles Of Management.md",
     "📚 Courses/MAS 261 - Principles Of Management/Resources",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes",
     "📚 Courses/MAS 261 - Principles Of Management/Lecture_Notes",
@@ -296,8 +197,6 @@
     "📚 Courses/CSM 481 - Information System I - Copy/Resources",
     "📚 Courses/CSM 481 - Information System I - Copy/Personal_Notes",
     "📚 Courses/CSM 481 - Information System I - Copy/Lecture_Notes",
-    "📚 Courses/CSM 481 - Information System I - Copy/Assignments",
-    "📚 Courses/CSM 481 - Information System I - Copy",
     "📄 Templates/Course_Detail.md",
     "📄 Templates/Resource.md",
     "📄 Templates/Assignment.md",
@@ -313,7 +212,6 @@
     "📄 Templates/Lecture_Note.md",
     "Courses/lecture/lecture 01.md",
     "course/Untitled.md",
-    "-templates/0A_3_4_ProjectProposal.md",
-    "Course Name.md"
+    "-templates/0A_3_4_ProjectProposal.md"
   ]
 }
