@@ -1,36 +1,19 @@
 {
   "main": {
-    "id": "d7afb57d43d0d180",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "009ae4212e60035f",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "a420c22cdf3b136e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": -271.75172538482474,
-                  "y": -130.10758941481356,
-                  "zoom": -1.1857156050458018
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "ddea23ece1274107",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 01.md",
+                "file": "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 01.md",
                 "mode": "source",
                 "source": false
               },
@@ -38,8 +21,7 @@
               "title": "Lecture 01"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,12 +150,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ddea23ece1274107",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "📚 Courses/CSM 483 - Operating Systems/Resources/OperatingSystemConcepts-10th.pdf",
-    "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 01.md",
-    "📚 Courses/CSM 483 - Operating Systems/Resources/ch1.pptx",
     "Homepage.canvas",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 01.md",
+    "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 01.md",
+    "📚 Courses/CSM 483 - Operating Systems/Resources/OperatingSystemConcepts-10th.pdf",
+    "📚 Courses/CSM 483 - Operating Systems/Resources/ch1.pptx",
     "Untitled"
   ]
 }
