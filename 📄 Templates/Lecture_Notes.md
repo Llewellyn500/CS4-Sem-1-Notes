@@ -4,8 +4,6 @@ date: {{date:YYYY-MM-DD}}
 tags: [lecture, ]
 ---
 
-# Lecture: {{title}}
-
 ## Audio Recording
 Use the audio recording to record the lecture
 

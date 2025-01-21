@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"52e964a0a81d5e0e","type":"text","text":"# **Recent Lectures**\n\n```dataview\nTABLE\n  rows.file.link AS \"Recent Lecture\"\nFROM \"📚 Courses\"\nWHERE contains(file.path, \"Lecture_Notes\")\nFLATTEN file.folder AS folder_path\nFLATTEN split(folder_path, \"/\")[1] AS Course\nGROUP BY Course\nSORT rows.file.ctime DESC\nLIMIT 10\n```","x":-840,"y":-300,"width":780,"height":460,"color":"3"},
+		{"id":"52e964a0a81d5e0e","type":"text","text":"# **Recent Lectures**\n\n```dataview\nTABLE\n  rows.file.link AS \"Recent Lecture\"\nFROM \"📚 Courses\"\nWHERE contains(file.path, \"Lecture_Notes\")\nFLATTEN file.folder AS folder_path\nFLATTEN split(folder_path, \"/\")[1] AS Course\nGROUP BY Course\nSORT rows.file.ctime ASC\nLIMIT 10\n```","x":-840,"y":-300,"width":780,"height":460,"color":"3"},
 		{"id":"f6faac52ded9ac6c","type":"text","text":"# **Recent Personal Studies**\n\n```dataview\nTABLE\n  rows.file.link AS \"Recent Personal Studies\"\nFROM \"📚 Courses\"\nWHERE contains(file.path, \"Personal_Notes\")\nFLATTEN file.folder AS folder_path\nFLATTEN split(folder_path, \"/\")[1] AS Course\nGROUP BY Course\nSORT rows.file.ctime DESC\nLIMIT 10\n```","x":120,"y":-300,"width":720,"height":460,"color":"4"},
 		{"id":"f7fbf5e90457d3d3","type":"text","text":"# Welcome Back\n\nCheck out your recent lectures below and study hard to make mommy proud.","x":-280,"y":-600,"width":620,"height":120,"color":"6"}
 	],
