@@ -13,29 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 02.md",
+                "file": "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/lecture 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 02"
-            }
-          },
-          {
-            "id": "289966acb542f145",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": 213.3489938965391,
-                  "y": -184.64364444815234,
-                  "zoom": -1.9184435248444014
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "title": "lecture 01"
             }
           }
         ]
@@ -179,16 +162,22 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "📎 Attachments/Recording 20250122165326.m4a",
+    "📚 Courses/CSM 495 - Introduction To Software Engineering/CSM 495 - Introduction To Software Engineering.md",
+    "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/lecture 01.md",
+    "Timetable.jpg",
+    "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 01.md",
     "Homepage.canvas",
+    "📚 Courses/CSM 481 - Information System I/Lecture_Notes/Lecture 01.md",
+    "📎 Attachments/Recording 20250121163722.m4a",
+    "📎 Attachments/Recording 20250121163656.m4a",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 01.md",
     "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 02.md",
     "📄 Templates/Lecture_Notes.md",
-    "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 01.md",
-    "Timetable.jpg",
     "📚 Courses/CSM 477 - Data Communication/Lecture_Notes/Lecture 01.md",
     "📚 Courses/CSM 477 - Data Communication/Resources/Datacom00020101.pptx",
     "📎 Attachments/Recording 20250120150243.m4a",
     "📚 Courses/CSM 477 - Data Communication/CSM 477 - Data Communication.md",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 01.md",
     "📚 Courses/CSM 483 - Operating Systems/Resources/OperatingSystemConcepts-10th.pdf",
     "📚 Courses/CSM 483 - Operating Systems/Resources/ch1.pptx",
     "Untitled"
