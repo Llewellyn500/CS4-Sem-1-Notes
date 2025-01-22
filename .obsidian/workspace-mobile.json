@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/lecture 01.md",
-                "mode": "source",
-                "source": false
+                "file": "Timetable.jpg"
               },
-              "icon": "lucide-file",
-              "title": "lecture 01"
+              "icon": "lucide-image",
+              "title": "Timetable"
             }
           }
         ]
@@ -162,9 +160,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "📚 Courses/CSM 481 - Information System I/Resources/1 -System Concepts 1.pptx",
+    "📚 Courses/CSM 481 - Information System I/Resources/1 CSM481 COURSE OUTLINE.pptx",
+    "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/lecture 01.md",
+    "📚 Courses/CSM 495 - Introduction To Software Engineering/Resources/softwareEngineeringSomerville.pdf",
     "📎 Attachments/Recording 20250122165326.m4a",
     "📚 Courses/CSM 495 - Introduction To Software Engineering/CSM 495 - Introduction To Software Engineering.md",
-    "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/lecture 01.md",
     "Timetable.jpg",
     "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 01.md",
     "Homepage.canvas",
