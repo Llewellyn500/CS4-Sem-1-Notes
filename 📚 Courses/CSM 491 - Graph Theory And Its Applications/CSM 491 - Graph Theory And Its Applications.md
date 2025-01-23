@@ -9,8 +9,8 @@ tags:
 
 ## Overview
 - Course Code: CSM 491
-- Instructor: 
-- Semester: 
+- Instructor: Dr. Oliver Kornyo
+- Semester: 01
 
 ## Syllabus
 - 
