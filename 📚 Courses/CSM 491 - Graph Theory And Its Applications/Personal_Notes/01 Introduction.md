@@ -85,7 +85,7 @@ $$
     ∣V∣=m+n
 $$
 
-	The total number of vertices is the sum of the vertices in $V_1$​ and $V_2$​.
+The total number of vertices is the sum of the vertices in $V_1$​ and $V_2$​.
     
 - **Number of Edges**:
 
@@ -93,7 +93,7 @@ $$
     ∣E∣ = m \cdot n
 $$
 
-	Since every vertex in $V_1$​ is connected to every vertex in $V_2$​, the number of edges equals $m \times n$.
+Since every vertex in $V_1$​ is connected to every vertex in $V_2$​, the number of edges equals $m \times n$.
     
 - **Degree of Each Vertex**:
     - Each vertex in $V_1$​ has a degree of $n$ (connected to all $n$ vertices in $V_2$​).
