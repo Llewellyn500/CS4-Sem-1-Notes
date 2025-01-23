@@ -63,10 +63,12 @@ A graph is **complete** if:
 ##### Properties of a Complete graph
 - **Number of Vertices**: A complete graph $K_n$​ has $n$ vertices.
 - **Number of Edges**: The total number of edges in $K_n​$ is: 
+
 $$
 \binom{n}{2} = \frac{n(n-1)}{2}​ 
 $$
-	This is because each pair of vertices has exactly one edge.
+
+This is because each pair of vertices has exactly one edge.
 - **Degree of Each Vertex**: In $K_n$ ​, every vertex is connected to all other $n-1$ vertices, so the degree of each vertex is $n-1$.
 - **Graph Density**: A complete graph is the densest simple graph possible since every vertex is connected to every other vertex.
 	![[Pasted image 20250123072347.png]]
@@ -78,16 +80,20 @@ $$
 Denoted $K_{m,n}$​ , is a special type of **bipartite graph** where every vertex in one subset of vertices is connected to every vertex in the other subset.
 ##### Properties
 - **Number of Vertices**:
+
 $$
     ∣V∣=m+n
 $$
-    The total number of vertices is the sum of the vertices in $V_1$​ and $V_2$​.
+
+	The total number of vertices is the sum of the vertices in $V_1$​ and $V_2$​.
     
 - **Number of Edges**:
+
 $$
     ∣E∣ = m \cdot n
 $$
-    Since every vertex in $V_1$​ is connected to every vertex in $V_2$​, the number of edges equals $m \times n$.
+
+	Since every vertex in $V_1$​ is connected to every vertex in $V_2$​, the number of edges equals $m \times n$.
     
 - **Degree of Each Vertex**:
     - Each vertex in $V_1$​ has a degree of $n$ (connected to all $n$ vertices in $V_2$​).
