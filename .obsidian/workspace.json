@@ -8,34 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "224ea5eba1ae17b7",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "📚 Courses/CSM 491 - Graph Theory And Its Applications/Personal_Notes/01 Introduction.md",
-                "mode": "source",
-                "source": false
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -220,
+                  "zoom": -0.22969722195968148
+                }
               },
-              "icon": "lucide-file",
-              "title": "01 Introduction"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           },
           {
-            "id": "a38d9a4c28c438f0",
+            "id": "c2b3f975e90987ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 01.md",
+                "file": "📚 Courses/CSM 491 - Graph Theory And Its Applications/Assignments/Assignment 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 01"
+              "title": "Assignment 01"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6616b4c46afcaea6",
@@ -175,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,11 +193,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "224ea5eba1ae17b7",
+  "active": "c2b3f975e90987ca",
   "lastOpenFiles": [
+    "📎 Attachments/WhatsApp Image 2025-01-23 at 13.02.16_60143cd9.jpg",
+    "Homepage.canvas",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Assignments/Assignment 01.md",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Personal_Notes/01 Introduction.md",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/~$GRAPH THEORY AND APPLICATIONS[2].pptx",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/~$~$GRAPH THEORY AND APPLICATIONS[2].pptx",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 01.md",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Personal_Notes/01 Introduction.md",
     "📎 Attachments/Pasted image 20250123073512.png",
     "📎 Attachments/Pasted image 20250123072347.png",
     "📎 Attachments/Pasted image 20250123072222.png",
@@ -206,9 +212,7 @@
     "📄 Templates/Course_Detail.md",
     "📄 Templates/Lecture_Notes.md",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/CSM 491 - Graph Theory And Its Applications.md",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/~$GRAPH THEORY AND APPLICATIONS[2].pptx",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/~$urse Outline_Graph Theory.docx",
-    "Homepage.canvas",
     "Timetable.jpg",
     "📚 Courses/CSM 495 - Introduction To Software Engineering/Resources/softwareEngineeringSomerville.pdf",
     "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/lecture 01.md",
@@ -221,7 +225,6 @@
     "📚 Courses/CSM 477 - Data Communication/Lecture_Notes/Lecture 01.md",
     "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 01.md",
     "📚 Courses/CSM 483 - Operating Systems/Resources/ch1.pptx",
-    "📚 Courses/CSM 483 - Operating Systems/Resources/OperatingSystemConcepts-10th.pdf",
     "📚 Courses/MAS 261 - Principles Of Management/MAS 261 - Principles Of Management.md",
     "📚 Courses/CSM 497 - Expert Systems/CSM 497 - Expert Systems.md",
     "📚 Courses/CSM 495 - Introduction To Software Engineering/CSM 495 - Introduction To Software Engineering.md",
@@ -233,7 +236,6 @@
     "📚 Courses/Course_Code_Course_Name/Lecture_Notes/Lecture o1.md",
     "Welcome.md",
     "📄 Templates/Lecture Notes Template.md",
-    "📚 Courses/Course_Code_Course_Name/Lecture 01.md",
-    "📄 Templates/Course_detail.md"
+    "📚 Courses/Course_Code_Course_Name/Lecture 01.md"
   ]
 }
