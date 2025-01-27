@@ -22,9 +22,12 @@ tags:
 It's a pathway over which information can be conveyed. 
 Information is represented by individual data bits which may be encapsulated into multi bit message unit. 
 #### channel types
-- simplex channel: has a transmitter sending message to the receiver only
-- half-duplex channel: has a transmitter transferring message to the receiver and vice versa but one at a time.
-- full duplex: both sides has the transmitter and the receiver and can transmit and receive at the same time.
+- **Simplex channel:** has a transmitter sending message to the receiver only (**eg.** Radio station)
+	![[Pasted image 20250127113350.png]]
+- **Half-duplex channel:** has a transmitter transferring message to the receiver and vice versa but one at a time. (**eg.** Telephone lines)
+	![[Pasted image 20250127113415.png]]
+- **Full duplex:** both sides has the transmitter and the receiver and can transmit and receive at the same time.
+	![[Pasted image 20250127113434.png]]
 #### serial communication 
 - bit serial transmits data in bits one at a time.
 - byte serial transition, transmit messages one byte at a time through parallel channels
@@ -34,7 +37,7 @@ Information is represented by individual data bits which may be encapsulated int
 Crosstalk - when the signals from 2 different channels seep into each other because the cables are close together.
 
 #### Baud Rate
-Refers to the signalling rate at which data is sent through a channel and is measured in electrical transitions per second.
+Refers to the signaling rate at which data is sent through a channel and is measured in electrical transitions per second.
 - Baud rate is similar to transmission rate but not the same
 
 **Channel efficiency** is the number of useful bits passed through a channel per second
