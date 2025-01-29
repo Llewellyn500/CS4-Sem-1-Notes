@@ -7,10 +7,7 @@ tags:
 ---
 
 ## Audio Recording
-
-![[Recording 20250121163722.m4a]]
-
-Use the audio recording to record the lecture
+![[Recording 20250121163656.m4a]]
 
 ## Key Points
 - 
@@ -48,7 +45,7 @@ The nesting of systems within systems is referred to as a system hierarchy.
 Major classes of performance measurement 
 - **Effectiveness** -> measure of actual output against desired output (reason system exists)
 - **Efficiency** ->  measure of relative cost of producing output.
-![[Recording 20250121163656.m4a]]
+
 
 
 ## Questions

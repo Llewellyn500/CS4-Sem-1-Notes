@@ -27,14 +27,14 @@ Use the audio recording to record the lecture
 - They set strategy for those challenges. 
 - They allocate the human and financial resources.
 - They create new product and services
-- They recreate the organisation from time to time.
+- They recreate the organization from time to time.
 
 - IS is not simply about computers, it's about how businesses can make the best use of computers.
 #### Organizational design
 - Flattening organization
 - 
 
-Virtual organisation-> use network to link people assets and ideas allying with suppliers and customers to create and distribute new products.
+Virtual organization-> use network to link people assets and ideas allying with suppliers and customers to create and distribute new products.
 #### Classification of IS
 - laudon and laudon categorisation
 	- strategy

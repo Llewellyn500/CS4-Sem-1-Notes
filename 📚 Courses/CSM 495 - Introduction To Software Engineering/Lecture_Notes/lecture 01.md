@@ -16,7 +16,7 @@ Use the audio recording to record the lecture
 - 
 
 ## Detailed Notes
-- software engineering is the systematic aproach to the dev of software that takes into account the approach the requirement stage, development, testing and evolution stage.
+- software engineering is the systematic approach to the dev of software that takes into account the approach the requirement stage, development, testing and evolution stage.
 - computer program is writing some lines of instructions to complete a task
 #### process involved in dev of software
 - requirement gathering -> functional requirements and non functional requirements
@@ -27,14 +27,14 @@ Use the audio recording to record the lecture
 
 #### Reasons why we engineer our software
 - To ensure software projects don't over run
-- Meet it's cost obligation (make sure it doesn't overdraw ita budget)
+- Meet it's cost obligation (make sure it doesn't overdraw its budget)
 - Meet it's quality dimension.
 #### what determines the quality of a software
 - it's noted in it's functional requirements and most importantly its non functional.
 ##### Functional Requirements 
 - they are the functionality of the software
 ##### Non functional 
-- The behaviour of a software while in operation/execution 
+- The behavior of a software while in operation/execution 
 
 ##### Why do software engineering projects fail
 - improper planning 
