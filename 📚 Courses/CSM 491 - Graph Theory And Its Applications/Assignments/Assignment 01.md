@@ -1,7 +1,7 @@
 ---
 course: CSM 491 - Graph Theory And Its Applications
 date: 2025-01-23
-status: Not Started
+status: In Progress
 tags:
   - assignment
   - CSM491
