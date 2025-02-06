@@ -2,7 +2,8 @@
 	"nodes":[
 		{"id":"52e964a0a81d5e0e","type":"text","text":"# **Recent Lectures**\n\n```dataview\nTABLE\n  rows.file.link AS \"Recent Lecture\"\nFROM \"📚 Courses\"\nWHERE contains(file.path, \"Lecture_Notes\")\nFLATTEN file.folder AS folder_path\nFLATTEN split(folder_path, \"/\")[1] AS Course\nGROUP BY Course\nSORT rows.file.ctime ASC\nLIMIT 10\n```","x":-840,"y":-300,"width":780,"height":580,"color":"3"},
 		{"id":"f6faac52ded9ac6c","type":"text","text":"# **Recent Personal Studies**\n\n```dataview\nTABLE\n  rows.file.link AS \"Recent Personal Studies\"\nFROM \"📚 Courses\"\nWHERE contains(file.path, \"Personal_Notes\")\nFLATTEN file.folder AS folder_path\nFLATTEN split(folder_path, \"/\")[1] AS Course\nGROUP BY Course\nSORT rows.file.ctime DESC\nLIMIT 10\n```","x":120,"y":-300,"width":720,"height":580,"color":"4"},
-		{"id":"f7fbf5e90457d3d3","type":"text","text":"# Welcome Back\n\nCheck out your recent lectures below and study hard to make mommy proud.","x":-280,"y":-600,"width":620,"height":120,"color":"6"}
+		{"id":"f7fbf5e90457d3d3","type":"text","text":"# Welcome Back\n\nCheck out your recent lectures below and study hard to make mommy proud.","x":-280,"y":-600,"width":620,"height":120,"color":"6"},
+		{"id":"ff1f31ed699327b8","x":-840,"y":318,"width":1680,"height":1155,"type":"file","file":"cs4sem1-timetable.jpg"}
 	],
 	"edges":[
 		{"id":"c7dca6d919e4823b","fromNode":"f7fbf5e90457d3d3","fromSide":"bottom","toNode":"52e964a0a81d5e0e","toSide":"top"},

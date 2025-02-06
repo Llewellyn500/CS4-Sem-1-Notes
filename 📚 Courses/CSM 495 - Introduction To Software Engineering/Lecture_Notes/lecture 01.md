@@ -9,12 +9,6 @@ tags:
 ## Audio Recording
 
 ![[Recording 20250122165326.m4a]]
-
-Use the audio recording to record the lecture
-
-## Key Points
-- 
-
 ## Detailed Notes
 - software engineering is the systematic approach to the dev of software that takes into account the approach the requirement stage, development, testing and evolution stage.
 - computer program is writing some lines of instructions to complete a task
@@ -58,9 +52,5 @@ Use the audio recording to record the lecture
 - **Functional user requirements** -> an abstract representation/view of the system from the user perspective.
 - **Functional system requirements** -> detail set of activities that a user undertakes in order to achieve a specific functional user requirements.
 
-## Questions
-- 
-
 ## Homework Assignments
 - Download "Software engineering by ison sommsomething"
-- 
