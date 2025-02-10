@@ -5,10 +5,6 @@ tags:
   - lecture
   - CSM483
 ---
-
-## Key Points
-- 
-
 ## Detailed Notes
 - Trap / exception is a software interrupt caused by either an error or user request.
 #### Multiprogramming (Batch)
@@ -27,15 +23,6 @@ tags:
 #### Process Management
 - A process is a program execution 
 - processes execute sequentially 
-- 
 
 
 Processor -> cache -> ram -> main memory
-## Questions
-- 
-
-## Summary
-- 
-
-## Homework Assignments
--

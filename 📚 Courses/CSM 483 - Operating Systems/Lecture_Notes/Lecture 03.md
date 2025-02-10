@@ -5,13 +5,6 @@ tags:
   - lecture
   - CSM483
 ---
-
-## Audio Recording
-Use the audio recording to record the lecture
-
-## Key Points
-- 
-
 ## Detailed Notes
 ### Processes 
 ![[📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 02#Process Management|Lecture 02]]
@@ -23,7 +16,7 @@ Multi parts of a process
 - data section -> containing global variables
 - heap
 
-- Program becomes an executable file when ita loaded into the memory 
+- Program becomes an executable file when it's loaded into the memory 
 #### Process state
  - New -> created process
  - Running -> executing instructions 
@@ -50,7 +43,7 @@ A scheduler dispatches the process from the ready state to running state. An int
 	Ready queue
 	Wait queue
 
-Theres an algorithm that looks at the age of the program so as the age goes up it will give it priority. (Uses the clock) - **aging** 
+There's an algorithm that looks at the age of the program so as the age goes up it will give it priority. (Uses the clock) - **aging** 
 
 #### Operations on processes
 ##### Process creation
@@ -80,10 +73,3 @@ Execution options
 ## Questions
 - when does the switch happen?
 	- between the save state and the reload state 
-- 
-
-## Summary
-- 
-
-## Homework Assignments
--
