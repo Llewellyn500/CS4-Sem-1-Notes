@@ -49,13 +49,4 @@ until a process entered the queue you can't know the burst time.
 	- q small -> RR
 
 #### Priority Scheduling 
-
-
-## Questions
-- 
-
-## Summary
-- 
-
-## Homework Assignments
--
+Next week
