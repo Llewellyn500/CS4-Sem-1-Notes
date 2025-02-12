@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 04.md",
-                "mode": "source",
-                "source": false
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": 473.7655104089936,
+                  "y": 821.3495047283367,
+                  "zoom": -1.0353426022416707
+                }
               },
-              "icon": "lucide-file",
-              "title": "Lecture 04"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -163,10 +166,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "📎 Attachments/Pasted image 20250210235703.png",
+    "📎 Attachments/Pasted image 20250210235628.png",
     "Homepage.canvas",
     "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 04.md",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Personal_Notes/01 Introduction.md",
     "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 03.md",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Personal_Notes/01 Introduction.md",
     "📚 Courses/CSM 477 - Data Communication/Personal_Notes/01 Introduction.md",
     "📚 Courses/CSM 481 - Information System I/Lecture_Notes/Lecture 02.md",
     "cs4sem1-timetable.jpg",
