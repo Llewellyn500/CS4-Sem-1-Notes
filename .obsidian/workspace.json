@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 457.5,
-                  "zoom": -1.116511111000725
-                }
+                "file": "📚 Courses/CSM 497 - Expert Systems/Personal_Notes/01 - Introduction.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "01 - Introduction"
             }
           }
         ]
@@ -81,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6616b4c46afcaea6",
@@ -179,37 +177,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac6024330b6f5a30",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Homepage.canvas",
+    "📚 Courses/CSM 497 - Expert Systems/Personal_Notes/01 - Introduction.md",
+    "📎 Attachments/Pasted image 20250218094139.png",
+    "📎 Attachments/Pasted image 20250218090356.png",
+    "📎 Attachments/Pasted image 20250218085237.png",
+    "📎 Attachments/Pasted image 20250218084917.png",
+    "📎 Attachments/Pasted image 20250218083833.png",
+    "📚 Courses/CSM 497 - Expert Systems/CSM 497 - Expert Systems.md",
+    "📚 Courses/CSM 497 - Expert Systems/Resources/Chapter4_Reasoning Under Uncertainty.pdf",
+    "📚 Courses/CSM 497 - Expert Systems/Resources/Chapter3_Methods of Inference.pdf",
+    "📚 Courses/CSM 497 - Expert Systems/Resources/Chapter2_Knowledge Representation.pdf",
+    "📚 Courses/CSM 497 - Expert Systems/Resources/Chapter1_Introduction.pdf",
+    "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/Lecture 04.md",
+    "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/Lecture 03.md",
+    "📚 Courses/CSM 483 - Operating Systems/Resources/ch5 updated.pptx",
+    "📚 Courses/CSM 481 - Information System I/Resources/5 -GROUP DECISION SUPPORT SYSTEM.pptx",
+    "📎 Attachments/Recording 20250212155241.m4a",
+    "📚 Courses/CSM 497 - Expert Systems/Resources/~$chapter01-1.ppt",
     "📚 Courses/CSM 481 - Information System I/Resources/4 -DECISION SUPPORT IN BUSINESS4.pptx",
     "📚 Courses/CSM 481 - Information System I/Resources/3 -KEY SYSTEMS APPLICATIONS IN ORGANIZATIONS 3 - Copy (2).pptx",
-    "📚 Courses/CSM 481 - Information System I/Resources/2 -Overview of Information Systems NEW.pptx",
     "📚 Courses/CSM 483 - Operating Systems/Personal_Notes/01 - Introduction.md",
     "📎 Attachments/Pasted image 20250210235703.png",
     "📎 Attachments/Pasted image 20250210235628.png",
     "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 04.md",
-    "📚 Courses/CSM 483 - Operating Systems/Resources/OperatingSystemConcepts-10th.pdf",
-    "📚 Courses/CSM 483 - Operating Systems/Resources/~$ch1.pptx",
     "📎 Attachments/Pasted image 20250210161407.png",
     "📎 Attachments/Pasted image 20250210161319.png",
     "📎 Attachments/Pasted image 20250210160904.png",
-    "📎 Attachments/Pasted image 20250210155821.png",
     "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 03.md",
     "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 02.md",
     "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 01.md",
-    "📚 Courses/CSM 483 - Operating Systems/Resources/~$ch3 updated.pptx",
-    "Homepage.canvas",
     "📚 Courses/CSM 495 - Introduction To Software Engineering/Personal_Notes/01 - Introduction.md",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 03.md",
     "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/Lecture 01.md",
     "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/Lecture 02.md",
-    "cs4sem1-timetable.jpg",
     "📚 Courses/CSM 477 - Data Communication/Lecture_Notes/Lecture 02.md",
-    "📚 Courses/MAS 261 - Principles Of Management/Resources/Unit 1b - Looking Back_ History of Management.pptx",
-    "📚 Courses/MAS 261 - Principles Of Management/Resources/Unit 1a  - Introduction.pptx",
-    "📚 Courses/MAS 261 - Principles Of Management/Resources/UNIT 9 - FOUNDATIONS OF INDIVIDUAL BEHAVIOUR.pptx",
-    "📚 Courses/MAS 261 - Principles Of Management/Resources/UNIT 8- Motivation.pptx",
-    "📚 Courses/MAS 261 - Principles Of Management/Resources/UNIT 7 - Leadership.pptx",
     "📚 Courses/MAS 261 - Principles Of Management/Lecture_Notes/Lecture 01.md",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 02.md",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Personal_Notes/01 Introduction.md",
@@ -220,13 +224,6 @@
     "README.md",
     "📚 Courses/CSM 477 - Data Communication/Lecture_Notes/Lecture 01.md",
     "📚 Courses/CSM 477 - Data Communication/Personal_Notes/01 Introduction.md",
-    "📎 Attachments/Pasted image 20250127113434.png",
-    "📎 Attachments/Pasted image 20250127113415.png",
-    "📎 Attachments/Pasted image 20250127113350.png",
-    "📄 Templates/Personal_Study_Template.md",
-    "📄 Templates/Resource.md",
-    "📄 Templates/Assignment.md",
-    "📄 Templates/Course_Detail.md",
-    "📄 Templates/Lecture_Notes.md"
+    "📄 Templates/Personal_Study_Template.md"
   ]
 }
