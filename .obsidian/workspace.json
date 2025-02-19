@@ -20,6 +20,23 @@
               "icon": "lucide-file",
               "title": "01 - Introduction"
             }
+          },
+          {
+            "id": "8a5dc0dc2da0e98f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": 27.510734647402945,
+                  "y": 529.4553200018844,
+                  "zoom": -0.9135829843481755
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
+            }
           }
         ]
       }
@@ -78,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6616b4c46afcaea6",
@@ -179,8 +195,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "📎 Attachments/Pasted image 20250219115001.png",
+    "📎 Attachments/Pasted image 20250219114942.png",
+    "📎 Attachments/Pasted image 20250219114931.png",
+    "📎 Attachments/Pasted image 20250219114603.png",
     "Homepage.canvas",
     "📚 Courses/CSM 497 - Expert Systems/Personal_Notes/01 - Introduction.md",
+    "📎 Attachments/Pasted image 20250219112233.png",
+    "📚 Courses/CSM 497 - Expert Systems/Resources/Chapter1_Introduction.pdf",
+    "📚 Courses/CSM 497 - Expert Systems/Resources/~$chapter01-1.ppt",
     "📎 Attachments/Pasted image 20250218094139.png",
     "📎 Attachments/Pasted image 20250218090356.png",
     "📎 Attachments/Pasted image 20250218085237.png",
@@ -190,22 +213,16 @@
     "📚 Courses/CSM 497 - Expert Systems/Resources/Chapter4_Reasoning Under Uncertainty.pdf",
     "📚 Courses/CSM 497 - Expert Systems/Resources/Chapter3_Methods of Inference.pdf",
     "📚 Courses/CSM 497 - Expert Systems/Resources/Chapter2_Knowledge Representation.pdf",
-    "📚 Courses/CSM 497 - Expert Systems/Resources/Chapter1_Introduction.pdf",
     "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/Lecture 04.md",
     "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/Lecture 03.md",
     "📚 Courses/CSM 483 - Operating Systems/Resources/ch5 updated.pptx",
     "📚 Courses/CSM 481 - Information System I/Resources/5 -GROUP DECISION SUPPORT SYSTEM.pptx",
     "📎 Attachments/Recording 20250212155241.m4a",
-    "📚 Courses/CSM 497 - Expert Systems/Resources/~$chapter01-1.ppt",
     "📚 Courses/CSM 481 - Information System I/Resources/4 -DECISION SUPPORT IN BUSINESS4.pptx",
     "📚 Courses/CSM 481 - Information System I/Resources/3 -KEY SYSTEMS APPLICATIONS IN ORGANIZATIONS 3 - Copy (2).pptx",
     "📚 Courses/CSM 483 - Operating Systems/Personal_Notes/01 - Introduction.md",
     "📎 Attachments/Pasted image 20250210235703.png",
-    "📎 Attachments/Pasted image 20250210235628.png",
     "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 04.md",
-    "📎 Attachments/Pasted image 20250210161407.png",
-    "📎 Attachments/Pasted image 20250210161319.png",
-    "📎 Attachments/Pasted image 20250210160904.png",
     "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 03.md",
     "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 02.md",
     "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 01.md",

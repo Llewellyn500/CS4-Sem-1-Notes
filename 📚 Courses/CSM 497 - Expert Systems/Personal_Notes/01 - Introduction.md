@@ -273,11 +273,242 @@ A few points about the nature of expert system development tools compared to con
     - The inference engine is the component that checks each rule’s “antecedent” (the IF part) against the current facts.
     - Whenever the conditions match, the inference engine triggers the corresponding actions (the THEN part), guiding the system’s reasoning process.
 
+#### **Structure of a Rule-Based Expert System**
+
+![[Pasted image 20250219112233.png]]
+
+#### **General Methods of Inferencing**
+
+- **Forward Chaining (Data-Driven):**
+    
+    - Begins with known facts and moves forward, applying rules to reach conclusions.
+    - Best suited for tasks like prognosis, monitoring, and control, where data continuously drives the reasoning process.
+
+- **Backward Chaining (Goal-Driven):**
+    
+    - Starts with a hypothesis (or potential conclusion) and works backward to find supporting facts.
+    - Commonly used for diagnostic problems, where the system aims to confirm or rule out a specific goal or condition.
+
+#### **Mathematical Roots of Rule Based Systems**
+
+- Post Production Systems
+	- Basic Idea: any mathematical / logical system is simply a set of rules specifying how to change one string of symbols into another string of symbols.
+	- Limitation: Lack of control mechanism to guide the application of the rules.
+	
+- Markov Algorithm
+	- **Basic Idea:**  A Markov algorithm rewrites an input string using a set of ordered rules. It checks each rule in priority order; if one matches, it’s applied, and the process repeats until no rule can be applied. (An effective algorithm for systems with many rules)
+	- **Key Limitations:**
+	    - **Rigid Ordering:** Rules are checked in a strict sequence, reducing flexibility.
+	    - **Risk of Loops:** Poorly designed rules can lead to infinite rewriting.
+	    - **Limited Reasoning:** It focuses on direct string manipulation, lacking advanced inference or handling of uncertainty.
+
+- Rete Algorithm
+	- Works like a “net” of information, efficiently storing partial matches to speed up rule checking.
+	- Offers much faster response times compared to checking each IF-THEN rule individually.
+	- Reuses past match results (exploits temporal redundancy) and groups similar patterns (exploits structural similarity).
+	- **Drawback:** Requires a lot of memory.
+
+#### **Programming Paradigms**
+
+- **Procedural (Sequential)** - The Programmer specifies exactly how a problem solution must be coded. 
+	- **Functional / Imperative**
+		- Emphasizes variables and assignments, treating data as a “modifiable store.”
+		- Execution moves from an initial to a final state through a series of intermediate states.
+		- Encourages a top-down design approach.
+		- Not typically well-suited for building expert systems directly, as it lacks specialized features for knowledge representation and inference.
+- **Non Procedural** (OOP - Object Oriented Programming) - Does not depend on the programmer giving exact details how the program is to be solved.
+
+![[Pasted image 20250219114603.png]]
+
+#### **Artificial Neural Systems (ANS)**
+
+A new development in programming paradigms in 1980s. Its based on the way the brain process information. ANS are found in face recognition, medical diagnosis, games, and speech recognition.
+
+![[Pasted image 20250219114931.png]]
+
+This diagram shows a **basic model of an artificial neuron** used in neural networks:
+
+1. **Inputs and Weights:**
+    
+    - Each incoming signal (I₁, I₂, I₃, etc.) is multiplied by a corresponding weight (Wᵢ1, Wᵢ2, Wᵢ3, etc.). These weights determine the importance of each input.
+    
+2. **Summation (Total Input):**
+    
+    - The neuron sums all the weighted inputs to get a **total input**. Mathematically, it’s often written as:
+    
+$$
+    I = \sum_{j} (W_{i,j} \times I_j)
+$$
+
+3. **Threshold (θ) or Bias:**
+    
+    - A threshold (or bias) is then applied. Essentially, the neuron compares the total input against this threshold to decide whether it should “fire” (activate).
+    
+4. **Activation Function (Sigmoid):**
+    
+    - The output (O) of the neuron is typically passed through an **activation function**, in this case, a sigmoid: 
+    
+$$
+    O = \frac{1}{1 + e^{- (I - \theta)}}
+$$
+	
+    - This function squashes the output to a range between 0 and 1, making it easier to handle in further layers or computations.
+
+Overall, the neuron takes multiple weighted inputs, sums them, and produces a single output. By adjusting the weights and threshold, the neuron “learns” patterns from data.
+
+![[Pasted image 20250219114942.png]]
+
+![[Pasted image 20250219115001.png]]
+
+##### **Characteristics**
+
+- ANS is similar to an analog computer using simple processing elements connected in a highly parallel manner.
+- Processing elements perform Boolean / arithmetic functions in the inputs
+- Key feature is associated weights w/each element.
+
+##### **Advantages**
+
+1. **Storage is fault tolerant:**
+    
+    - The system’s information is stored across many interconnected nodes rather than in a single place.
+    - If some nodes or connections fail, the overall system can still function, retaining much of the stored information.
+    
+2. **Quality of stored image degrades gracefully:**
+    
+    - Because the data (e.g., an image or pattern) is distributed across the network, losing part of the network doesn’t cause a total loss of the stored information.
+    - Instead, the stored content becomes slightly less accurate, but not entirely destroyed.
+    
+3. **Nets can extrapolate and interpolate from their stored information:**
+    
+    - Neural networks can generalize from what they’ve learned.
+    - They can handle new inputs that are similar (but not identical) to what they’ve seen before, effectively “filling in the gaps” or predicting missing data.
+    
+4. **Nets have plasticity:**
+    
+    - They can adapt over time, adjusting weights and connections as they learn new information or receive updated training data.
+    - This makes them flexible and able to improve performance or change their behavior as conditions change.
+    
+5. **Excellent when long-term functionality is needed without repairs in hostile environments:**
+    
+    - Due to their fault tolerance and minimal maintenance needs, these networks can keep working reliably even under tough conditions, where constant repairs or human intervention aren’t feasible.
+
+##### **Disadvantages**
+
+- **No Explanation Facility:**
+    
+    - Neural networks (or similar learning systems) are often treated as “black boxes,” providing outputs without showing the reasoning behind them.
+    
+- **Requires a Lot of Training Examples:**
+    
+    - Achieving good performance usually demands extensive, high-quality data to teach the system effectively.
+    
+- **Difficult to Analyze Training Results:**
+    
+    - Even after training, it can be challenging to interpret or break down the network’s internal workings to understand exactly how it arrived at a particular conclusion.
+
+#### **MACIE (Matrix Controlled Interface Engine)**
+
+- It uses ANS knowledge base
+- Designed to classify disease from symptoms into one of the known diseases the system has been trained on
+- Uses forward chaining to make inferences and backward chaining to query user for additional data to reach conclusions
 
 
 ## **Key Concepts**
 
--
+- **Definition of Expert Systems:**
+    
+    - Computer systems that mimic the decision-making abilities of human experts.
+    
+- **Areas of Artificial Intelligence:**
+    
+    - Expert systems are one part of AI, alongside other techniques and paradigms.
+
+- **Expert System Technology:**
+    
+    - Utilizes specialized languages (e.g., CLIPS), dedicated programs, and even specific hardware to implement expert systems.
+    
+- **Main Components:**
+    
+    - **Knowledge Base:** A repository of information gathered from various sources (books, experts, etc.).
+    - **Inference Engine (Interface Engine):** Applies logical rules to the knowledge base to draw conclusions.
+    
+- **Basic Functions:**
+    
+    - They include reasoning, explanation, and decision-making, supported by components like working memory and an agenda.
+    
+- **Problem Domain vs. Knowledge Domain:**
+    
+    - The knowledge domain is the specific area of expertise (e.g., medicine) within a broader problem domain (e.g., healthcare).
+    
+- **Advantages of Expert Systems:**
+    
+    - They are available 24/7, reduce costs and dangers, offer high performance, provide consistent and reliable results, and can even serve as intelligent tutors.
+    
+- **Building an Expert System:**
+    
+    - Involves gathering knowledge from human experts, coding it into the system, and then refining the system through expert feedback.
+    
+- **Role of AI:**
+    
+    - AI provides flexible, reasoning-based approaches when straightforward algorithms aren’t enough, using inference engines to approximate human reasoning.
+    
+- **Handling Uncertainty:**
+    
+    - Expert systems deal with both shallow (heuristic, empirical) and deep (fundamental) knowledge, which affects their complexity and accuracy.
+    
+- **Limitations of Expert Systems:**
+    
+    - They struggle with generalizing through analogy and face a bottleneck in knowledge acquisition due to the time-intensive process of encoding expert knowledge.
+    
+- **Cognitive Foundations:**
+    
+    - Expert systems are influenced by models like the Newell/Simon General Problem Solver, incorporating concepts of long-term (IF-THEN rules) and short-term memory along with conflict resolution in inference.
+
+- **Expert vs. Base Knowledge:**
+    
+    - Base knowledge covers standard rules and procedures, while expert knowledge involves deeper, often tacit insights developed through experience.
+    
+- **Historical Examples:**
+    
+    - Early systems like DENDRAL (chemistry), MYCIN (medicine), DIPMETER and PROSPECTOR (geological exploration), and XCON (computer configuration) illustrate various applications.
+    
+- **Applications and Domains:**
+    
+    - Expert systems can be designed for configuration, diagnosis, teaching, interpretation, monitoring, planning, prognosis, remedy, and control.
+    
+- **Design Considerations:**
+    
+    - They must be built for well-bounded domains, with genuine need, accessible expert input, and knowledge that can be clearly explained.
+    
+- **Expert System Languages and Tools:**
+    
+    - These are specialized for handling knowledge representation and inference, differing from traditional procedural or object-oriented languages.
+    
+- **Elements of a Rule-Based Expert System:**
+    
+    - Includes components like the user interface, working memory, inference engine, agenda, knowledge acquisition facility, and the knowledge base itself.
+    
+- **Inferencing Methods:**
+    
+    - **Forward Chaining:** Data-driven approach that starts with known facts.
+    - **Backward Chaining:** Goal-driven approach that works backwards from a hypothesis.
+    
+- **Mathematical Foundations:**
+    
+    - Concepts such as post-production systems, Markov algorithms (string rewriting), and the Rete algorithm (efficient pattern matching) underpin rule-based reasoning.
+    
+- **Programming Paradigms:**
+    
+    - Contrasts procedural (sequential, step-by-step) with non-procedural (object-oriented) approaches, noting that traditional procedural methods are less suited for expert systems.
+    
+- **Artificial Neural Systems (ANS):**
+    
+    - Inspired by the brain, these systems use interconnected nodes (neurons) with weighted inputs to learn patterns, featuring characteristics like fault tolerance, graceful degradation, and adaptability.
+    - They come with advantages (e.g., robustness, ability to generalize) and limitations (e.g., lack of explainability, need for large training datasets).
+    
+- **MACIE (Matrix Controlled Interface Engine):**
+    
+    - An example of a system that uses a neural network-based knowledge base combined with forward and backward chaining to classify diseases based on symptoms.
 
 ## **References**
 
