@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": -48.772260532266614,
-                  "y": 220.74491625825635,
-                  "zoom": -1.9333406529354618
-                }
+                "file": "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/Lecture 05.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "Lecture 05"
             }
           }
         ]
@@ -40,7 +37,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -144,8 +141,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
@@ -167,7 +164,10 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Homepage.canvas",
+    "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/Lecture 05.md",
     "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/Lecture 04.md",
+    "📚 Courses/MAS 261 - Principles Of Management/Lecture_Notes/Lecture 01.md",
+    "📚 Courses/CSM 495 - Introduction To Software Engineering/Personal_Notes/01 - Introduction.md",
     "📚 Courses/CSM 495 - Introduction To Software Engineering/Lecture_Notes/Lecture 03.md",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 03.md",
     "Untitled",
@@ -183,12 +183,10 @@
     "📚 Courses/CSM 477 - Data Communication/Personal_Notes/01 Introduction.md",
     "📚 Courses/CSM 481 - Information System I/Lecture_Notes/Lecture 02.md",
     "cs4sem1-timetable.jpg",
-    "📚 Courses/CSM 495 - Introduction To Software Engineering/Personal_Notes/01 - Introduction.md",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/Lecture 2 (1).pptx",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 02.md",
     "📚 Courses/CSM 477 - Data Communication/Lecture_Notes/Lecture 3.md",
     "📚 Courses/CSM 477 - Data Communication/Lecture_Notes/Lecture 02.md",
-    "📚 Courses/MAS 261 - Principles Of Management/Lecture_Notes/Lecture 01.md",
     "📎 Attachments/Recording 20250130160138.m4a",
     "📎 Attachments/Recording 20250130153752.m4a",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 01.md",
@@ -204,7 +202,6 @@
     "📚 Courses/CSM 495 - Introduction To Software Engineering/CSM 495 - Introduction To Software Engineering.md",
     "Timetable.jpg",
     "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 01.md",
-    "📄 Templates/Lecture_Notes.md",
-    "📚 Courses/CSM 477 - Data Communication/CSM 477 - Data Communication.md"
+    "📄 Templates/Lecture_Notes.md"
   ]
 }
