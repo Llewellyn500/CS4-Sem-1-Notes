@@ -27,5 +27,11 @@
     "editor:configure-toolbar",
     "editor:toggle-inline-math",
     "editor:insert-mathblock"
-  ]
+  ],
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
