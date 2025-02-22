@@ -46,6 +46,3 @@ Refers to the signaling rate at which data is sent through a channel and is meas
 - Its often specified by its bit rate.
 - The maximum data rate a channel can support is directly proportional to the channels bandwidth and inversely proportional to the channels noise level.
 - Bandwidth is the available maximum space given to a device to transmit data.
-
-## Summary
-- 

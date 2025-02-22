@@ -5,10 +5,6 @@ tags:
   - lecture
   - CSM477
 ---
-
-## Audio Recording
-Use the audio recording to record the lecture
-
 ## Key Points
 - impedance -> resistance in AC circuit 
 
@@ -21,12 +17,3 @@ Use the audio recording to record the lecture
 		- coaxial cable -> 2 conductors. Inner one is held inside an insulator with the other woven around it providing a shield with a jacket covering it.
 		- optical fiber -> thin glass carrying info at frequency in the visible light spectrum. 
 	- wireless
-
-## Questions
-- 
-
-## Summary
-- 
-
-## Homework Assignments
--
