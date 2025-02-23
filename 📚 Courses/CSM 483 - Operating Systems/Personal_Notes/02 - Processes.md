@@ -223,9 +223,16 @@ A thread is a lightweight process that shares the same memory space and resource
 
 
 
+#### **Difference Between Process and Thread**
 
-
-
+| **Aspect**                 | **Process**                                                                                  | **Thread**                                                                                        |
+| -------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **Definition**             | A program in execution with its own memory space and resources.                              | A lightweight unit of execution within a process, sharing the process’s memory and resources.     |
+| **Memory & Resource**      | Has its own address space, file handles, and system resources.                               | Shares address space and resources (files, sockets, etc.) with other threads in the same process. |
+| **Creation Overhead**      | Higher overhead due to allocating a separate address space and resources.                    | Lower overhead since threads share the process’s resources; faster to create.                     |
+| **Context Switching**      | More expensive; switching involves saving and loading entire process state.                  | Less expensive; only thread-specific registers and stack information are switched.                |
+| **Isolation & Protection** | Processes are isolated; a failure in one process generally does not affect others.           | Threads are less isolated; an error in one thread can potentially affect the entire process.      |
+| **Concurrency**            | Used to run independent tasks concurrently; communication typically requires IPC mechanisms. | Allows parallel execution within the same application; easier communication via shared memory.    |
 
 
 
