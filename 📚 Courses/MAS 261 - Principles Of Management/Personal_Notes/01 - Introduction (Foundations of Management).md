@@ -40,12 +40,13 @@ The expression "organization's having an identifiable boundary" means that an or
 - Management involves coordinating and overseeing the work activities of others so that their activities are completed efficiently and effectively.
 - You can describe what managers do in these ways: **Functions**, **roles** and **skills**
 
+#### **Efficiency and effectiveness in management**
+
 | Efficiency            | Effectiveness                  |
 | --------------------- | ------------------------------ |
 | Doing things right    | Doing the right things         |
 | Not wasting resources | Attaining organizational goals |
 
-#### **Efficiency and effectiveness in management**
 
 ![[Pasted image 20250221083201.png]]
 
