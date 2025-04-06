@@ -18,6 +18,41 @@
               "icon": "lucide-file-text",
               "title": "CSM 477 - Data Communication (Morris Edition)"
             }
+          },
+          {
+            "id": "6da19890a718f60d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": 403.4528203801509,
+                  "y": 641.7333924798725,
+                  "zoom": 0.10612627575590235
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a83b9bf5ad15a704",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3554427054502b94",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "📚 Courses/CSM 477 - Data Communication/Questions/Data Comm some test bi and gpt answeres.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Data Comm some test bi and gpt answeres"
+            }
           }
         ]
       }
@@ -177,20 +212,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99643f21949b5dde",
+  "active": "3554427054502b94",
   "lastOpenFiles": [
-    "Homepage.canvas",
-    "📚 Courses/CSM 481 - Information System I/Resources/CSM 481 - Information System 1 (Morris edition).pdf",
     "📚 Courses/CSM 477 - Data Communication/Resources/CSM 477 - Data Communication (Morris Edition).pdf",
-    "📚 Courses/CSM 477 - Data Communication/Resources/~$Datacom00020101.pptx",
-    "📚 Courses/CSM 477 - Data Communication/Resources/Data_Communication_Summary_Topics_Highlighted.pdf",
-    "📚 Courses/CSM 477 - Data Communication/Assignments/8565521-CSM 477.pdf",
+    "📚 Courses/CSM 477 - Data Communication/Questions/Multiple-Choice-Questions-MCQ-of-Computer-Communication-Network.htm",
+    "📚 Courses/CSM 477 - Data Communication/Questions/mcq.docx",
+    "📚 Courses/CSM 477 - Data Communication/Questions/Data communication ( Silence).pdf",
+    "📚 Courses/CSM 477 - Data Communication/CSM 477 - Data Communication.md",
     "📚 Courses/CSM 477 - Data Communication/Questions/Data Comm some test bi and gpt answeres.pdf",
+    "Homepage.canvas",
+    "📚 Courses/CSM 477 - Data Communication/Resources/Data_Communication_Summary_Topics_Highlighted.pdf",
+    "📚 Courses/CSM 481 - Information System I/Resources/CSM 481 - Information System 1 (Morris edition).pdf",
+    "📚 Courses/CSM 477 - Data Communication/Resources/~$Datacom00020101.pptx",
+    "📚 Courses/CSM 477 - Data Communication/Assignments/8565521-CSM 477.pdf",
     "📚 Courses/CSM 477 - Data Communication/Personal_Notes/01 Introduction.md",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/Lecture 7 (1).pptx",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/Lecture 8.pptx",
-    "📚 Courses/CSM 477 - Data Communication/Questions/m c qs.html",
-    "📚 Courses/CSM 477 - Data Communication/Questions/DATA    COMMUNICATION PASCO.docx",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01b - History of Management.md",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01 - Introduction (Foundations of Management).md",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/03 - Global Management.md",
@@ -223,7 +260,6 @@
     "📚 Courses/CSM 497 - Expert Systems/Personal_Notes/02 - The Representation of knowledge.md",
     "📚 Courses/CSM 497 - Expert Systems/Personal_Notes/01 - Introduction.md",
     "📚 Courses/CSM 483 - Operating Systems/Personal_Notes/01 - Introduction.md",
-    "📚 Courses/CSM 483 - Operating Systems/Personal_Notes/02 - Processes.md",
-    "📚 Courses/CSM 483 - Operating Systems/Assignments/Test - 01.md"
+    "📚 Courses/CSM 483 - Operating Systems/Personal_Notes/02 - Processes.md"
   ]
 }
