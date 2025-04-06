@@ -11,17 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": 1020.5,
-                  "y": 477.5,
-                  "zoom": -1.3769263794193314
-                }
+                "file": "📚 Courses/CSM 477 - Data Communication/Resources/CSM 477 - Data Communication (Morris Edition).pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file-text",
+              "title": "CSM 477 - Data Communication (Morris Edition)"
             }
           }
         ]
@@ -182,10 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac6024330b6f5a30",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "📚 Courses/CSM 481 - Information System I/Resources/CSM 481 - Information System 1 (Morris edition).pdf",
     "Homepage.canvas",
+    "📚 Courses/CSM 481 - Information System I/Resources/CSM 481 - Information System 1 (Morris edition).pdf",
     "📚 Courses/CSM 477 - Data Communication/Resources/CSM 477 - Data Communication (Morris Edition).pdf",
     "📚 Courses/CSM 477 - Data Communication/Resources/~$Datacom00020101.pptx",
     "📚 Courses/CSM 477 - Data Communication/Resources/Data_Communication_Summary_Topics_Highlighted.pdf",
@@ -196,7 +191,6 @@
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/Lecture 8.pptx",
     "📚 Courses/CSM 477 - Data Communication/Questions/m c qs.html",
     "📚 Courses/CSM 477 - Data Communication/Questions/DATA    COMMUNICATION PASCO.docx",
-    "📚 Courses/MAS 261 - Principles Of Management/Questions/Prin Managment mcqs.docx",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01b - History of Management.md",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01 - Introduction (Foundations of Management).md",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/03 - Global Management.md",
