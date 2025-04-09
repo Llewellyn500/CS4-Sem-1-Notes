@@ -6,7 +6,6 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 45.25586353944563,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -14,42 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "📚 Courses/CSM 477 - Data Communication/Resources/CSM 477 - Data Communication (Morris Edition).pdf"
+                "file": "📚 Courses/CSM 481 - Information System I/Questions/INFROMATION ANS.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "CSM 477 - Data Communication (Morris Edition)"
-            }
-          },
-          {
-            "id": "6da19890a718f60d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "📚 Courses/CSM 477 - Data Communication/Questions/WhatsApp Image 2025-02-27 at 18.14.56_629e917c.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "WhatsApp Image 2025-02-27 at 18.14.56_629e917c"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a83b9bf5ad15a704",
-        "type": "tabs",
-        "dimension": 54.74413646055437,
-        "children": [
-          {
-            "id": "3554427054502b94",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "📚 Courses/CSM 477 - Data Communication/Questions/DATA COMM FILL.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DATA COMM FILL"
+              "title": "INFROMATION ANS"
             }
           }
         ]
@@ -210,22 +177,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6da19890a718f60d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "📚 Courses/CSM 481 - Information System I/Questions/INFROMATION SYSTEM (SILENCE).pdf",
+    "Homepage.canvas",
+    "📚 Courses/CSM 481 - Information System I/Questions/INFROMATION ANS.pdf",
+    "📚 Courses/CSM 481 - Information System I/Personal_Notes/03 - Key Systems Application in Organizations.md",
+    "📚 Courses/CSM 481 - Information System I/Personal_Notes/01 - System Concepts.md",
+    "📚 Courses/CSM 481 - Information System I/Personal_Notes/02 - Overview of Information Systems.md",
+    "📚 Courses/CSM 481 - Information System I/Personal_Notes/04 - Decision Support in Business.md",
+    "📚 Courses/CSM 481 - Information System I/Resources/CSM 481 - Information System 1 (Morris edition).pdf",
+    "📚 Courses/CSM 481 - Information System I/Questions/IS 14 Pasco.pdf",
+    "📚 Courses/CSM 481 - Information System I/Questions/INFO SYS (SILENCE).pdf",
+    "📚 Courses/CSM 477 - Data Communication/Questions/Data comm mcqs1.pdf",
+    "📚 Courses/CSM 477 - Data Communication/Questions/DATA COMM FILL.pdf",
+    "📚 Courses/CSM 477 - Data Communication/Resources/CSM 477 - Data Communication (Morris Edition).pdf",
+    "📚 Courses/CSM 477 - Data Communication/Questions/WhatsApp Image 2025-02-27 at 18.14.56_629e917c.jpg",
+    "📚 Courses/CSM 477 - Data Communication/Questions/Data Comm some test bi and gpt answeres.pdf",
+    "📚 Courses/CSM 477 - Data Communication/Questions/data-comm-pasquo2.pdf",
     "📚 Courses/CSM 477 - Data Communication/Questions/WhatsApp Image 2025-02-27 at 18.14.58_92ad2acc.jpg",
     "📚 Courses/CSM 477 - Data Communication/Questions/WhatsApp Image 2025-02-27 at 18.14.57_43496571.jpg",
-    "📚 Courses/CSM 477 - Data Communication/Questions/WhatsApp Image 2025-02-27 at 18.14.56_629e917c.jpg",
-    "📚 Courses/CSM 477 - Data Communication/Questions/data-comm-pasquo2.pdf",
-    "📚 Courses/CSM 477 - Data Communication/Questions/~$mcq.docx",
-    "📚 Courses/CSM 477 - Data Communication/Questions/Data communication ( Silence)+Answers.pdf",
-    "📚 Courses/CSM 477 - Data Communication/Questions/Data communication ( Silence).pdf",
-    "📚 Courses/CSM 477 - Data Communication/Questions/Data Comm some test bi and gpt answeres.pdf",
-    "📚 Courses/CSM 477 - Data Communication/Questions/Data comm mcqs1.pdf",
-    "📚 Courses/CSM 477 - Data Communication/Questions/Data comm mcqs.pdf",
-    "Homepage.canvas",
-    "📚 Courses/CSM 477 - Data Communication/Questions/DATA COMM FILL.pdf",
-    "📚 Courses/CSM 477 - Data Communication/Questions/~$TA    COMMUNICATION PASCO.docx",
-    "📚 Courses/CSM 477 - Data Communication/Resources/CSM 477 - Data Communication (Morris Edition).pdf",
     "📚 Courses/CSM 477 - Data Communication/CSM 477 - Data Communication.md",
     "📚 Courses/CSM 477 - Data Communication/Personal_Notes/01 Introduction.md",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01b - History of Management.md",
@@ -244,12 +215,7 @@
     "📎 Attachments/Pasted image 20250227210626.png",
     "📎 Attachments/Pasted image 20250227210617.png",
     "📎 Attachments/Pasted image 20250227205824.png",
-    "📎 Attachments/Pasted image 20250227205655.png",
     "📚 Courses/MAS 261 - Principles Of Management/Lecture_Notes/Lecture 01.md",
-    "📚 Courses/CSM 481 - Information System I/Personal_Notes/04 - Decision Support in Business.md",
-    "📚 Courses/CSM 481 - Information System I/Personal_Notes/03 - Key Systems Application in Organizations.md",
-    "📚 Courses/CSM 481 - Information System I/Personal_Notes/02 - Overview of Information Systems.md",
-    "📚 Courses/CSM 481 - Information System I/Personal_Notes/01 - System Concepts.md",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Personal_Notes/01 Introduction.md",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 03.md",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 02.md",
