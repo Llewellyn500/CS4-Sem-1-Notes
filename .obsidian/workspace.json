@@ -13,13 +13,54 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "📚 Courses/CSM 483 - Operating Systems/Questions/OS quiz.pdf"
+                "file": "📚 Courses/CSM 483 - Operating Systems/Resources/OS  summary.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "OS quiz"
+              "title": "OS  summary"
+            }
+          },
+          {
+            "id": "54a8236724fcda7b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "📚 Courses/CSM 483 - Operating Systems/Resources/CSM 483 - Operating System.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CSM 483 - Operating System"
+            }
+          },
+          {
+            "id": "e41b72abcc7f1e9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Courses/CSM 483 - Operating Systems/Assignments/Test - 01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test - 01"
+            }
+          },
+          {
+            "id": "6ccd4a1d4c85f9d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Courses/CSM 483 - Operating Systems/Personal_Notes/03 - CPU Scheduling.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 - CPU Scheduling"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,8 +218,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "54a8236724fcda7b",
   "lastOpenFiles": [
+    "📚 Courses/CSM 483 - Operating Systems/Assignments/Test - 01.md",
+    "📚 Courses/CSM 483 - Operating Systems/Resources/CSM 483 - Operating System.pdf",
+    "📚 Courses/CSM 483 - Operating Systems/Resources/OS  summary.pdf",
+    "📚 Courses/CSM 483 - Operating Systems/Personal_Notes/03 - CPU Scheduling.md",
+    "📚 Courses/CSM 483 - Operating Systems/Questions/WhatsApp Image 2025-04-13 at 18.30.30_431bbdfa.jpg",
+    "📚 Courses/CSM 483 - Operating Systems/Resources/OperatingSystemConcepts-10th.pdf",
+    "📚 Courses/CSM 483 - Operating Systems/Questions/OS quiz.pdf",
     "📚 Courses/CSM 483 - Operating Systems/Questions/~WRL0001.tmp",
     "📚 Courses/CSM 483 - Operating Systems/Questions/~WRD0000.tmp",
     "📚 Courses/CSM 477 - Data Communication/Questions/~$TA    COMMUNICATION PASCO.docx",
@@ -190,12 +238,7 @@
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01b - History of Management.md",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01 - Introduction (Foundations of Management).md",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/03 - Global Management.md",
-    "📚 Courses/MAS 261 - Principles Of Management/Resources/~$Unit 1a  - Introduction.pptx",
-    "📚 Courses/CSM 477 - Data Communication/Resources/~$Datacom00020101.pptx",
-    "📚 Courses/CSM 495 - Introduction To Software Engineering/Questions/Pink Question.pdf",
     "📚 Courses/CSM 495 - Introduction To Software Engineering/Resources/WhatsApp Image 2025-03-05 at 18.31.25_5db85748.jpg",
-    "📚 Courses/CSM 495 - Introduction To Software Engineering/Questions/se answers.pdf",
-    "📚 Courses/CSM 495 - Introduction To Software Engineering/Questions/unb_ca.pdf",
     "📚 Courses/CSM 495 - Introduction To Software Engineering/Questions/WhatsApp Image 2025-04-10 at 15.10.45_d7c4b718.jpg",
     "📚 Courses/CSM 481 - Information System I/Personal_Notes/03 - Key Systems Application in Organizations.md",
     "📚 Courses/CSM 481 - Information System I/Personal_Notes/01 - System Concepts.md",
@@ -216,15 +259,12 @@
     "📎 Attachments/Pasted image 20250227210653.png",
     "📎 Attachments/Pasted image 20250227210645.png",
     "📎 Attachments/Pasted image 20250227210626.png",
-    "📎 Attachments/Pasted image 20250227210617.png",
     "📚 Courses/MAS 261 - Principles Of Management/Lecture_Notes/Lecture 01.md",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Personal_Notes/01 Introduction.md",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 03.md",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 02.md",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 01.md",
     "📚 Courses/CSM 483 - Operating Systems/Questions/Answers.md",
-    "📚 Courses/CSM 497 - Expert Systems/Personal_Notes/02 - The Representation of knowledge.md",
-    "📚 Courses/CSM 497 - Expert Systems/Personal_Notes/01 - Introduction.md",
-    "📚 Courses/CSM 483 - Operating Systems/Personal_Notes/01 - Introduction.md"
+    "📚 Courses/CSM 497 - Expert Systems/Personal_Notes/02 - The Representation of knowledge.md"
   ]
 }
