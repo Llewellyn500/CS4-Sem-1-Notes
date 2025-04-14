@@ -195,3 +195,49 @@ The expression "organization's having an identifiable boundary" means that an or
 ## **References**
 
 ![[Unit 1a  - Introduction.pptx]]
+
+
+
+# **Exam Prep**
+
+#### **Level of Management**
+
+![[Pasted image 20250221081818.png]]
+
+![[📚 Courses/MAS 261 - Principles Of Management/Lecture_Notes/Lecture 01#Levels of management|Lecture 01]]
+
+The expression "organization's having an identifiable boundary" means that an organization has a clear line or limit that distinguishes what is part of the organization from what is not. In other words, it defines which people, activities, resources, and processes are considered "inside" the organization versus those that belong to the external environment.
+
+#### **What do managers do?**
+
+- Management involves coordinating and overseeing the work activities of others so that their activities are completed efficiently and effectively.
+- You can describe what managers do in these ways: **Functions**, **roles** and **skills**
+
+#### **Efficiency and effectiveness in management**
+
+| Efficiency            | Effectiveness                  |
+| --------------------- | ------------------------------ |
+| Doing things right    | Doing the right things         |
+| Not wasting resources | Attaining organizational goals |
+
+
+![[Pasted image 20250221083201.png]]
+
+#### **The four management functions**
+
+- **Planning:** Defining goal, establish strategies to achieve goals, and developing plans to integrate and coordinate activities.
+- **Organizing:** Arranging and structuring work to accomplish organizational goals.
+- **Leading:** Working with and through people to accomplish goals.
+- **Controlling:** Monitoring, comparing, and correcting work
+
+![[Pasted image 20250221084052.png]]
+
+#### **Skills managers need**
+
+- **Robert L. Kartz** proposed this
+	- **Technical skills**
+		- Knowledge and proficiency in a specific field
+	- **Human Skills**
+		- The ability to work well with other people
+	- **Conceptual skills**
+		- The ability to think and conceptualize about abstract and complex situations concerning the organization
