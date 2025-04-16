@@ -11,12 +11,58 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "📚 Courses/MAS 261 - Principles Of Management/Questions/WhatsApp Image 2025-04-16 at 15.38.38_8b231a9e.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "WhatsApp Image 2025-04-16 at 15.38.38_8b231a9e"
+            }
+          },
+          {
+            "id": "369586e86d3d8774",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/End of sem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "End of sem"
+            }
+          },
+          {
+            "id": "ccf12751d8d50637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01b - History of Management.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01b - History of Management"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7247312a3f44ac9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57acf82df08e9653",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "📚 Courses/MAS 261 - Principles Of Management/Resources/MAS 261 - Principles of Management (Morris edition).pdf"
+                "file": "📚 Courses/MAS 261 - Principles Of Management/Questions/1000109345.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "MAS 261 - Principles of Management (Morris edition)"
+              "title": "1000109345"
             }
           }
         ]
@@ -178,11 +224,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "57acf82df08e9653",
   "lastOpenFiles": [
     "📚 Courses/MAS 261 - Principles Of Management/Questions/WhatsApp Image 2025-04-16 at 15.38.38_8b231a9e.jpg",
+    "📚 Courses/MAS 261 - Principles Of Management/Resources/MAS 261 - Principles of Management (Morris edition).pdf",
     "📚 Courses/MAS 261 - Principles Of Management/Questions/1000109345.pdf",
+    "📚 Courses/MAS 261 - Principles Of Management/Questions/END OF 1ST SEM EXAMS_COS_MAY2022.docx",
+    "📚 Courses/MAS 261 - Principles Of Management/Resources/TrustMe.pdf",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/End of sem.md",
+    "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01b - History of Management.md",
+    "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01 - Introduction (Foundations of Management).md",
     "Homepage.canvas",
     "📚 Courses/CSM 483 - Operating Systems/Assignments/Test - 01.md",
     "📚 Courses/CSM 483 - Operating Systems/Resources/CSM 483 - Operating System.pdf",
@@ -193,11 +244,6 @@
     "📚 Courses/CSM 483 - Operating Systems/Questions/OS quiz.pdf",
     "📚 Courses/CSM 483 - Operating Systems/Questions/~WRL0001.tmp",
     "📚 Courses/CSM 483 - Operating Systems/Questions/~WRD0000.tmp",
-    "📚 Courses/CSM 477 - Data Communication/Questions/~$TA    COMMUNICATION PASCO.docx",
-    "📚 Courses/CSM 477 - Data Communication/Questions/~$mcq.docx",
-    "📚 Courses/CSM 483 - Operating Systems/Questions/~$ASS EXERCISE.docx",
-    "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01b - History of Management.md",
-    "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01 - Introduction (Foundations of Management).md",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/03 - Global Management.md",
     "📚 Courses/CSM 495 - Introduction To Software Engineering/Resources/WhatsApp Image 2025-03-05 at 18.31.25_5db85748.jpg",
     "📚 Courses/CSM 495 - Introduction To Software Engineering/Questions/WhatsApp Image 2025-04-10 at 15.10.45_d7c4b718.jpg",
@@ -219,7 +265,6 @@
     "📚 Courses/CSM 483 - Operating Systems/Lecture_Notes/Lecture 05.md",
     "📎 Attachments/Pasted image 20250227210653.png",
     "📎 Attachments/Pasted image 20250227210645.png",
-    "📎 Attachments/Pasted image 20250227210626.png",
     "📚 Courses/MAS 261 - Principles Of Management/Lecture_Notes/Lecture 01.md",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Personal_Notes/01 Introduction.md",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Lecture_Notes/Lecture 03.md",
