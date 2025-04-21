@@ -11,20 +11,76 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": 1020.5,
-                  "y": 477.5,
-                  "zoom": -1.1435413169698734
-                }
+                "file": "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/graphtheoryanditsapplications-180311171041.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file-text",
+              "title": "graphtheoryanditsapplications-180311171041"
+            }
+          },
+          {
+            "id": "d540ec223fbe5e05",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/ANS.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ANS"
+            }
+          },
+          {
+            "id": "ffb3c2535fe84c30",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/slide6answers.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "slide6answers"
+            }
+          },
+          {
+            "id": "29aa1c5ca0546b82",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/slide7answers.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "slide7answers"
+            }
+          },
+          {
+            "id": "099653ff7e368a1f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/ME010105-Graph-Theory.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ME010105-Graph-Theory"
+            }
+          },
+          {
+            "id": "a2594fc60fdcac33",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/MCQ-on-Graph-Theory-and-Application.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "MCQ-on-Graph-Theory-and-Application"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 327.5,
     "collapsed": true
   },
   "right": {
@@ -183,13 +239,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d540ec223fbe5e05",
   "lastOpenFiles": [
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/~$Lecture 6 (1).pptx",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/MCQ-on-Graph-Theory-and-Application.pdf",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/ME010105-Graph-Theory.pdf",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/slide7answers.pdf",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/slide6answers.pdf",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/ANS.pdf",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/graphtheoryanditsapplications-180311171041.pdf",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/GRAPH THEORY ASSIGNMENT  solution.pdf",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/Graph theory midsem.pdf",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/our midsem.pdf",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/Graph theory exams.pdf",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/~$Lecture 7 (1).pptx",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/~$Lecture 8.pptx",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/CSM 491 - Graph Theory And Its Applications (Morris Edition).pdf",
+    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/4258.pdf",
+    "Homepage.canvas",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/IMG-20250420-WA0017.jpg",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/IMG-20250420-WA0018.jpg",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/IMG-20250420-WA0019.jpg",
@@ -199,13 +262,6 @@
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/IMG-20250420-WA0014.jpg",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/IMG-20250420-WA0011.jpg",
     "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/IMG-20250420-WA0013.jpg",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/ANS.pdf",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/CSM 491 - Graph Theory And Its Applications (Morris Edition).pdf",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions/Graph Theory pasco.pdf",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Questions",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/New folder",
-    "📚 Courses/CSM 491 - Graph Theory And Its Applications/Resources/~$GRAPH THEORY AND APPLICATIONS[2].pptx",
-    "Homepage.canvas",
     "📚 Courses/MAS 261 - Principles Of Management/Questions/WhatsApp Image 2025-04-16 at 15.38.38_8b231a9e.jpg",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/End of sem.md",
     "📚 Courses/MAS 261 - Principles Of Management/Personal_Notes/01b - History of Management.md",
