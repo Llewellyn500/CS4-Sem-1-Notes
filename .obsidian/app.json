@@ -29,6 +29,7 @@
     "editor:insert-mathblock"
   ],
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
